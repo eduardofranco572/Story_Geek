@@ -1,0 +1,154 @@
+.Tudo{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+li:hover, p:hover{
+    cursor: pointer;
+    color: #040520;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.imgdesconto{
+    background-color: #FC6133;
+    width: 100%;
+    
+}
+.imgcentrotudo{
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+
+.desaque{
+    text-align: center;
+    font-size: 32px;
+    font-family: "Lato",sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+
+.barra{
+    width: 170px;
+    height: 5px;
+    border-radius: 3px;
+    background: #FC6133;
+    margin: 4px auto 15px;
+}
+
+.contexto{
+    display: flex;
+    justify-content: center;   
+}
+
+.propaganda1{
+    overflow: hidden;
+}
+
+.propaganda1 img{
+    max-width: 100%;
+    -moz-transition: all 0.3s;
+    -webkit-transition: all 0.3s;
+    transition: all 0.3s;
+
+}
+
+.propaganda1:hover img{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+
+.card{
+    margin-left: 40px;
+}
+
+.lancamentos{
+    display: flex;
+    justify-content: center;
+    font-size: 21px;
+    font-family: "Lato",sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: 1rem;
+}
+
+.barralan{
+    margin-left: -10px;
+    margin-top: -27px;
+    width: 5px;
+    height: 22px;
+    border-radius: 3px;
+    background: #FC6133;
+}
+
+.contexto2{
+    display: flex; 
+    justify-content: center;
+
+}
+
+.contexto3{
+    display: flex;
+    justify-content: center;
+}
+
+.contexto4{
+    display: flex;
+    justify-content: center;
+} 
+
+
+.contato{
+    background-image: url(https://rd1.com.br/wp-content/uploads/2021/11/20211122-red-background-10.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+ 
+}
+
+
+.textpromo{
+    color: white;
+    text-align: center;
+    font-size: 22px;
+    padding-top: 60px;
+
+}
+
+p > a:hover{
+   text-decoration:none;  
+}
+
+.carousel_slide{
+    width: 1440px;
+}
+
+.carrossel{
+   width: 100%;
+}
+.celdentro{
+    display: flex;
+    justify-content: center;
+}
+
+.Container-meio{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 100%;
+}

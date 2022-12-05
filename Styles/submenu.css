@@ -1,0 +1,29 @@
+.Sub-Menu{
+    background-color: #D8D8D8;
+    width: 100%;
+    padding: 0.5rem;
+}
+p{
+    font-size: 13px;
+    text-transform: uppercase;
+    line-height: 20px;
+    font-weight: bold;
+    color: #24255c;  
+}
+
+.sub-2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    margin-top: 0 !important;
+    margin-bottom: 0rem !important;
+}
+
+.sub-2 li{
+    display: flex;
+    justify-content: space-between;
+    padding: 0rem 2rem 0rem 2rem;
+}

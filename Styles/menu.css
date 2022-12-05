@@ -1,0 +1,151 @@
+.menu-tudo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    padding: 0rem 16rem 0rem 16rem;
+}
+.botaoShared{
+    border: none;
+}
+
+button, input {
+    overflow: visible;
+    width: 24rem;
+    border-radius: 1rem;
+    border: none;
+    background-color: #EDEFF3;
+    padding: 0.5rem;
+}
+
+.pesquisa form{
+    display: flex;
+}
+
+.botaoShared{
+    width: 3rem;
+    height: 2rem;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    border-radius: 1rem;
+    margin-top: 4px;
+    margin-left: -3.5rem;
+}
+.imgEntrar{
+    height: 2rem; 
+    width: 2rem;
+}
+
+.imgpesquisar{
+    height: 1.5rem; 
+    width: 1.5rem;
+}
+
+.imgentrar{
+    margin-left: 1px;
+}
+
+.entrar{
+    display: flex;
+    align-items: center;
+}
+
+.submenuentrar{
+    display: none;
+    padding: 10px;
+    z-index: 10;
+    position: sticky;
+}
+
+nav ul li:hover .submenuentrar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 13rem;
+    border-radius: 1rem;
+    margin-left: -3.5rem;
+    margin-top: 0.5rem;
+    border: 1px solid #3c3c3c;
+  
+}
+
+nav ul li:hover .submenuentrar ul{
+    display: block;
+
+}
+
+nav ul li:hover .submenuentrar ul li{
+    align-items: center;
+    text-align: center;
+    margin-left: -5px;
+    width: 160px;
+    height: 60px;
+    border-radius: 40px;
+    transition: 0.7s;
+    padding: 4px;
+}
+
+.text2{
+    border-radius: 9px;
+    background-color: #FC6133;
+    width: 160px;
+    height: 40px;
+    color: white;
+    padding: 8px;
+    
+}
+.text2 p a{
+    color: white;
+}
+.text2 p a:hover{
+    color: #202153;
+}
+
+a {
+    color: #24255c;
+    text-decoration: none;
+ }
+
+ a:visited {
+     color: #202153;
+ }
+
+
+.seta img{
+    height: 1.5rem; 
+    width: 1.5rem;
+ }
+
+.junto-2{
+    display: flex;
+    align-items: center;
+    margin-left: 2rem;
+}
+.tudo-2112{
+    display: flex;
+    align-items: center;
+}
+
+.text-cadastrar{
+    font-size: 1rem;
+}
+
+ul{
+    margin: 0 !important;
+    margin-bottom: 0 !important;
+    padding: 0 !important;
+}
+.melhor-fronte-end-de-la-mundo{
+    position: absolute;
+    margin-left: -1rem;
+}
+
+.lis{
+    margin-left: -0.5rem;
+}
+
+.tudo-entrar{
+    display: flex;
+}

@@ -1,0 +1,134 @@
+.flex{
+    display: flex;
+}
+.flex ul{
+    display: block;
+}
+
+.flex ul li{
+    padding: 10px;
+    margin-left: 150px;
+}
+.parte1{
+    display: flex;
+}
+
+.texttitulo{
+    font-size: 22px;
+    line-height: 25px;
+    font-family: "Lato",sans-serif;
+    font-weight: bold;
+}
+.valordesconto{
+    color: #969394;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;   
+}
+
+.valorpreco{
+    color: #24255C;
+    font-size: 25px;
+    font-weight: bold;
+    line-height: 27px;
+}
+
+.valorparcelas{
+    color: #969394;
+    font-size: 14px;
+    line-height: 16px;
+    font-weight: 400;
+   
+}
+
+.tamanho ul li{
+    padding: 20px;
+    color: #141542;
+}
+
+.butaocomprar button{
+    background-color: #33B159;
+    color: white;
+    height: 60px;
+    width: 288px;
+    border-radius: 10px;   
+}
+
+.fret{
+    margin-top: 10px;
+    height: 65px;
+    width: 368px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #969394;
+      
+}
+
+.textfret{
+    margin-left: 25px;
+    color: black;
+    font-size: 12px;
+    padding-top: 15px;
+    font-family: "Lato",sans-serif;
+
+
+}
+
+.textfret2{
+    font-size: 12px;
+    margin-left: 25px;
+    margin-top: 5px;
+    color: black;
+    font-family: "Lato",sans-serif;
+
+
+
+}
+
+.valorfret{
+    color: green;
+    font-size: 16px;
+    font-family: "Lato",sans-serif;
+
+
+}
+
+.valorfret2{
+    color: #24255c;
+    font-size: 16px;
+    font-family: "Lato",sans-serif;
+}
+
+
+.descricao{
+    margin-left: 150px;
+    margin-top: 20px;
+    width: 1100px;
+    font-size: 12px;
+    color: black;
+    font-family: "Lato",sans-serif;
+}
+
+.fotomedidas{
+    margin-left: 150px;
+    
+}
+
+.desaque2{
+    text-align: center;
+    font-size: 22px;
+    font-family: "Lato",sans-serif;
+    color: black;
+    font-weight: bold;
+}
+
+.barra2{
+    width: 160px;
+    height: 4px;
+    border-radius: 3px;
+    background: #FC6133;
+    margin: 4px auto 15px;
+}
+
+
+
